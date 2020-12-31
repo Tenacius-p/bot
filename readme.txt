@@ -1,1 +1,15 @@
-readme
+LISTA
+MASIVO
+EXORVITANTE
+TITAN 
+UNIDAD ABSOLUTA
+COLOSO
+TANQUE
+MONSTRO
+garrafa
+calefon
+barril
+
+.spam @tenacius
+msg=<@!174279403713462273>
+<class 'str'>
